@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Parking</string>
+    <string name="welcome">Welcome to UPC Parking</string>
+    <string name="contrasena">Contraseña</string>
+    <string name="log_in">LOG IN</string>
+    <string name="todo">TODO</string>
+    <string name="register">REGISTER</string>
+    <string name="codigo_usuario">Código UPC</string>
+    <string name="recuperar_pass">Olvidé mi contraseña</string>
+    <string name="cambiar_clave">Cambiar Contraseña</string>
+    <string name="nombres">Nombres</string>
+    <string name="confirmar_clave">Confirmar contraseña</string>
+    <string name="registrar">registrar</string>
+    <string name="limpiar">limpiar</string>
+    <string name="ingresar_codigo">Ingresar código de usuario UPC</string>
+    <string name="ingresar_nombres">Ingresar nombres</string>
+    <string name="ingresar_apellidos">Ingresar apellidos</string>
+    <string name="ingresar_correo">Ingresar correo electrónico</string>
+    <string name="ingresar_telefono">Ingresar número de teléfono</string>
+    <string name="ingresar_clave">Ingresar contraseña</string>
+    <string name="ingresar_confirmarClave">Volver a ingresar la contraseña</string>
+    <string name="apellidos">Apellidos</string>
+    <string name="correo">E-mail</string>
+    <string name="telefono">Teléfono</string>
+    <string name="realizar_reserva">realizar reserva</string>
+    <string name="cancelar_reserva">cancelar reserva</string>
+    <string name="activar_reserva">activar reserva</string>
+    <string name="finalizar_reserva">finalizar reserva</string>
+    <string name="guardar">guardar</string>
+    <string name="cancelar">cancelar</string>
+</resources>
